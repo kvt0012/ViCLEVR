@@ -1,4 +1,4 @@
-# A comparative study of question answering over knowledge bases
+# ViCLEVR: A Visual Reasoning Dataset for Visual Question Answering in Vietnamesee
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 	![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -9,19 +9,19 @@
 <!-- <!-- *Paper*: []() -->
 #### Citation 
 ```
-@Article{Tran2021KBQA,
-  Title= {A comparative study of question answering over knowledge bases},
-  Author= {Khiem Vinh Tran, Hao Phu Phan, Khang Nguyen Duc Quach, Ngan Luu-Thuy Nguyen, Jun Jo, Thanh Tam Nguyen},
-  booktitle={Advanced Data Mining and Applications},
-  Year={2022},
-  Publisher={Springer International Publishing},
+@Article{Tran2023ViCLEVR,
+  Title= {ViCLEVR: A Visual Reasoning Dataset for Visual Question Answering in Vietnamesee},
+  Author= {Khiem Vinh Tran,Hao Phu Phan,Kiet Van Nguyen,Ngan Luu Thuy Nguyen},
+  booktitle={},
+  Year={2023},
+  Publisher={},
 }
 ```
 # Framework
 
 ## Dataset format
 
-```json
+<!-- ```json
 {
   "id":"6",
   "question":[ {
@@ -43,7 +43,7 @@
                   }}]}}
   ]
 }
-```
+``` -->
 
 ## Enviroment
 ` pip install -r requirement.txt` 
