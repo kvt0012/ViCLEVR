@@ -1,10 +1,10 @@
-# ViCLEVR: A Visual Reasoning Dataset for Visual Question Answering in Vietnamesee
+# ViCLEVR: A Visual Reasoning Dataset and Hybrid Multimodal Fusion Model for Visual Question Answering in Vietnamese
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 	![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-- This repository is a implementation of the framework for a visual question answering.
+- This repository is a implementation of the framework PhoViT for a Vietnamese visual question answering.
 
-- In this work, we are also releasing a dataset for visual reasoning. The dataset is provided in folder [COVID_data](hhttps://github.com/kvt0012/ViCLEVR/tree/main/data/COVID) in this repository. More details about dataset are provided below.
+- In this work, we are also releasing a dataset for visual reasoning. The dataset is provided in folder [data](hhttps://github.com/kvt0012/ViCLEVR/tree/main/data) in this repository. More details about dataset are provided below.
 
 <!-- <!-- *Paper*: []() -->
 #### Citation 
@@ -12,9 +12,9 @@
 @Article{Tran2023ViCLEVR,
   Title= {ViCLEVR: A Visual Reasoning Dataset for Visual Question Answering in Vietnamesee},
   Author= {Khiem Vinh Tran,Hao Phu Phan,Kiet Van Nguyen,Ngan Luu Thuy Nguyen},
-  booktitle={},
-  Year={2023},
-  Publisher={},
+  journal={arXiv preprint arXiv:2310.18046},
+  doi={doi.org/10.48550/arXiv.2310.18046},
+  year={2023}
 }
 ```
 # Framework
