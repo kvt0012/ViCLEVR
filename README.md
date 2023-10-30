@@ -4,7 +4,7 @@
 
 - This repository is a implementation of the framework PhoViT for a Vietnamese visual question answering.
 
-- In this work, we are also releasing a dataset for visual reasoning. The dataset is provided in folder [data](hhttps://github.com/kvt0012/ViCLEVR/tree/main/data) in this repository. More details about dataset are provided below.
+- In this work, we are also releasing a dataset for visual reasoning. The dataset is provided in folder [data/ViCLEVR](hhttps://github.com/kvt0012/ViCLEVR/tree/main/data/ViCLEVR) in this repository. More details about dataset are provided below.
 
 <!-- <!-- *Paper*: []() -->
 #### Citation 

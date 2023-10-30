@@ -1,6 +1,7 @@
-# LC-QUAD data 
+# ViCLEVR data 
 ## Download data
-Download data directly by command
-` git clone https://github.com/AskNowQA/LC-QuAD.git` 
-Or access to this link and download ZIP
-` https://github.com/AskNowQA/LC-QuAD` 
+The dataset is available at this website https://nlp.uit.edu.vn/datasets/.
+Please contact the author as shown in below website for the dataset.
+
+
+
