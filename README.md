@@ -10,15 +10,16 @@
 #### Citation 
 ```
 @Article{Tran2023ViCLEVR,
-  Title= {ViCLEVR: A Visual Reasoning Dataset for Visual Question Answering in Vietnamesee},
-  Author= {Khiem Vinh Tran,Hao Phu Phan,Kiet Van Nguyen,Ngan Luu Thuy Nguyen},
-  Journal={Multimedia Systems},
-  Number = {4},
-	Pages = {199},
-  Doi = {10.1007/s00530-024-01394-w},
-  Year={2024}
+  title= {ViCLEVR: a visual reasoning dataset and hybrid multimodal fusion model for visual question answering in Vietnamese},
+  author= {Khiem Vinh Tran, Hao Phu Phan, Kiet Van Nguyen,Ngan Luu Thuy Nguyen},
+  journal= {Multimedia Systems},
+  number= {4},
+	pages= {199},
+  doi= {10.1007/s00530-024-01394-w},
+  year={2024}
 }
 ```
+
 # Framework
 
 ## Dataset format
