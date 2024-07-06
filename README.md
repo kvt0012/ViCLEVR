@@ -12,9 +12,11 @@
 @Article{Tran2023ViCLEVR,
   Title= {ViCLEVR: A Visual Reasoning Dataset for Visual Question Answering in Vietnamesee},
   Author= {Khiem Vinh Tran,Hao Phu Phan,Kiet Van Nguyen,Ngan Luu Thuy Nguyen},
-  journal={arXiv preprint arXiv:2310.18046},
-  doi={doi.org/10.48550/arXiv.2310.18046},
-  year={2023}
+  Journal={Multimedia Systems},
+  Number = {4},
+	Pages = {199},
+  Doi = {10.1007/s00530-024-01394-w},
+  Year={2024}
 }
 ```
 # Framework
