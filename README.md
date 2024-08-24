@@ -6,6 +6,11 @@
 
 - In this work, we are also releasing a dataset for visual reasoning. The dataset is provided in folder [data/ViCLEVR](hhttps://github.com/kvt0012/ViCLEVR/tree/main/data/ViCLEVR) in this repository. More details about dataset are provided below.
 
+# News
+- August, 2024: release [the data of  **ViCLEVR**](https://github.com/kvt0012/ViCLEVR/tree/main/data/ViCLEVR)
+- July, 2024: [**ViCLEVR**](https://link.springer.com/article/10.1007/s00530-024-01394-w) was accepted by **Multimedia System 2024**.
+- October 2023: release preprint [ViCLEVR: A Visual Reasoning Dataset and Hybrid Multimodal Fusion Model for Visual Question Answering in Vietnamese](https://arxiv.org/abs/2310.18046)
+
 <!-- <!-- *Paper*: []() -->
 #### Citation 
 ```
